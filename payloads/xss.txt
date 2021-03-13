@@ -1,0 +1,12 @@
+hello_there
+<script>alert("hello_there")</script>
+<SCRIPT>alert(0)</SCRIPT>
+<sc<script>ript>alert("hello_there")</s</script>cript>
+‘; alert(‘hello_there’);’;
+
+<svg onload=alert(0)>
+<script>prompt("hello_there")</script>
+<body onload= prompt("hello_there")>
+<svg onload= prompt(0)>
+
+
