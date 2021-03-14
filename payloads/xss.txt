@@ -1,5 +1,6 @@
 hello_there
 <script>alert("hello_there")</script>
+<h1>hello_there</h1>
 <SCRIPT>alert(0)</SCRIPT>
 <sc<script>ript>alert("hello_there")</s</script>cript>
 ‘; alert(‘hello_there’);’;
